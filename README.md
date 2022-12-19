@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lekejo.
+- 👀 I’m interested in data analytics at the moment.
+- 🌱 I’m currently learning Power BI.
