@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lekejo.
 - 👀 I’m interested in artificial intelligence and data analytics at the moment.
-- 🌱 I’m currently learning AI governance and Power BI.
+- 🌱 I’m currently learning data science, AI governance and Power BI.
